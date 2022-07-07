@@ -3,17 +3,17 @@
     "descrição": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://imagepng.org/wp-content/uploads/2017/04/bandeira-do-brasil.png"
     },
     "mandante": {
       "nome": "Brasil",
       "força": 5,
-      "imagem": "TODO"
+      "imagem": ""
        },
     "visitante": {
       "nome": "Argentina",
       "força": 5,
-      "imagem": "TODO"}
+      "imagem": "https://imagepng.org/wp-content/uploads/2017/10/bandeira-argentina.png"}
     }
   }
 ]
